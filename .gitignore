@@ -1,0 +1,6 @@
+Quake/bin/id1/*
+*.exe
+*.o
+*.d
+*.res
+*.swp

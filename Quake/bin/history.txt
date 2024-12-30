@@ -1,0 +1,30 @@
+fps
+show_fps
+con_showfps 1
+seta con_showfps 1
+con
+con_showfps
+con_showfps 1
+exit
+quit
+echo
+echo $config
+echo $(config)
+echo asdasd
+echo "mouse1"
+echo $"config"
+echo space
+echo +jump
+echo $space
+quit
+fov 90
+fov 20
+fov 60
+fov 80
+fov 300
+fov 120
+fov 90
+fov 100
+quit
+scr_showfps
+scr_showfps 1
