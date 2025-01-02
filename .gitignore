@@ -1,4 +1,5 @@
 Quake/bin/id1/*
+Quake/bin/history.txt
 *.exe
 *.o
 *.d
